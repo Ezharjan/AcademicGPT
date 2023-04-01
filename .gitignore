@@ -1,3 +1,10 @@
+.vscode
+.vscode/
+.idea
+.idea/
+.vs
+.vs/
+
 #private information
 config.py
 
